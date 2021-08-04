@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+Body {background: url('https://images8.alphacoders.com/632/632051.png') no-repeat #252525;}
+
+
+IMG {border: 3px solid #000000;}
+
+
+h1 {font-size: 75px;}
+
+
+#qwer {font-size: 20px; color: #ffffff;}
+
+
+.style {color: #FFFFFF;}
+
+
+.bruh {color: #FFFFFF; text-decoration: none;}
+.bruh:hover {color: #0EC300;}
+.bruh:active {color: #098400;}
+
+
+.downup {color: #ffffff;}
+.downup:hover {color: #00CBFF;}
+.downup:active {color: #009BC3;} 
+
+
+.lol {color: #FFFFFF;}
+.lol {font-size: 30px;}
+
+
+.pol {color: #ffffff;}
+
+	/*  <h2 align="center" id="text">Информация о сайте</h2>
+	<ul>
+		<li id="text">Что нового</li>
+	</ul>
+	<br>
+	<details>
+		<summary id="text">Дата: 03.07.2020</summary>
+		<ol>
+		    <li id="text">Добавленно 4 картинки</li>
+		    <li id="text">Извменён интерфей таблицы</li>
+			<li id="text">Появилась информация о сайте</li>
+	    </ol>
+	</details> */
+
+
+
+
+
+
